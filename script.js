@@ -1,4 +1,4 @@
-var 답 ='hello';
+var 답 ='ddong';
         document.querySelector('button').addEventListener('click',
         function(){
             var input=document.querySelectorAll('.input');
